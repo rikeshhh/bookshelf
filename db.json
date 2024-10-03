@@ -1,0 +1,410 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": [
+        {
+          "image": "https://m.media-amazon.com/images/I/71aFt4+OTOL.jpg",
+          "title": "Physical forget speak.",
+          "author": "Jamie Robinson",
+          "date": "2021-03-22",
+          "edition": "First Edition",
+          "description": "Place poor ability only wait. Attention these animal between. Build over really card section."
+        }
+      ],
+      "rating": 3,
+      "category": "Non-Fiction",
+      "availability": ["Audiobook", "Audiobook", "HardCopy"]
+    },
+    {
+      "id": 2,
+      "title": [
+        {
+          "image": "https://m.media-amazon.com/images/I/81eB+7+CkUL.jpg",
+          "title": "Pressure.",
+          "author": "Calvin Harrison",
+          "date": "2023-03-28",
+          "edition": "Second Edition",
+          "description": "Stop chance card major all."
+        }
+      ],
+      "rating": 5,
+      "category": "Non-Fiction",
+      "availability": ["Ebook", "Audiobook"]
+    },
+    {
+      "id": 3,
+      "title": [
+        {
+          "image": "https://m.media-amazon.com/images/I/81eB+7+CkUL.jpg",
+          "title": "Song bit environment.",
+          "author": "Monica Ferguson",
+          "date": "2021-01-21",
+          "edition": "Second Edition",
+          "description": "Newspaper size involve guess might. Late others per lawyer. Method increase standard nearly owner."
+        }
+      ],
+      "rating": 2,
+      "category": "Non-Fiction",
+      "availability": ["HardCopy", "Ebook"]
+    },
+    {
+      "id": 4,
+      "title": [
+        {
+          "image": "https://m.media-amazon.com/images/I/91uwocAMtSL.jpg",
+          "title": "Decision morning how.",
+          "author": "Andrew Wilkins",
+          "date": "2020-07-26",
+          "edition": "Third Edition",
+          "description": "Financial treat thing field than. Stay easy drug. Effort between speak per."
+        }
+      ],
+      "rating": 1,
+      "category": "Biography",
+      "availability": ["HardCopy", "Audiobook", "Ebook"]
+    },
+    {
+      "id": 5,
+      "title": [
+        {
+          "image": "https://m.media-amazon.com/images/I/71aFt4+OTOL.jpg",
+          "title": "Project affect difference mind.",
+          "author": "Daniel Lewis",
+          "date": "2024-07-29",
+          "edition": "First Edition",
+          "description": "Together task place thousand loss. First it ever walk candidate write. Pattern sing land once."
+        }
+      ],
+      "rating": 1,
+      "category": "Fiction",
+      "availability": ["Audiobook"]
+    }
+  ],
+  "recent": [
+    {
+      "id": 1,
+      "title": [
+        {
+          "image": "https://m.media-amazon.com/images/I/71aFt4+OTOL.jpg",
+          "title": "Recent Insights in AI.",
+          "author": "Olivia Wilson",
+          "date": "2022-12-10",
+          "edition": "First Edition",
+          "description": "The world of artificial intelligence is evolving at an unprecedented pace."
+        }
+      ],
+      "rating": 4,
+      "category": "Technology",
+      "availability": ["Ebook", "Audiobook"]
+    },
+    {
+      "id": 2,
+      "title": [
+        {
+          "image": "https://m.media-amazon.com/images/I/81eB+7+CkUL.jpg",
+          "title": "Recent Developments in Space Exploration.",
+          "author": "Liam Harper",
+          "date": "2023-01-05",
+          "edition": "Second Edition",
+          "description": "An in-depth look into recent advancements in space technology."
+        }
+      ],
+      "rating": 5,
+      "category": "Science",
+      "availability": ["HardCopy", "Ebook"]
+    },
+    {
+      "id": 3,
+      "title": [
+        {
+          "image": "https://m.media-amazon.com/images/I/71aFt4+OTOL.jpg",
+          "title": "Understanding Quantum Computing.",
+          "author": "Isabella Roberts",
+          "date": "2023-02-22",
+          "edition": "Third Edition",
+          "description": "A detailed guide to the complex world of quantum computing."
+        }
+      ],
+      "rating": 5,
+      "category": "Technology",
+      "availability": ["Ebook"]
+    },
+    {
+      "id": 4,
+      "title": [
+        {
+          "image": "https://m.media-amazon.com/images/I/81eB+7+CkUL.jpg",
+          "title": "Breakthroughs in Biotechnology.",
+          "author": "Mason Bennett",
+          "date": "2023-03-30",
+          "edition": "First Edition",
+          "description": "A look into the future of biotechnology and genetic engineering."
+        }
+      ],
+      "rating": 4,
+      "category": "Science",
+      "availability": ["HardCopy", "Audiobook"]
+    },
+    {
+      "id": 5,
+      "title": [
+        {
+          "image": "https://m.media-amazon.com/images/I/81eB+7+CkUL.jpg",
+          "title": "The Digital Economy.",
+          "author": "Sophia Carter",
+          "date": "2023-04-01",
+          "edition": "Second Edition",
+          "description": "Exploring the rise of digital currencies and the future of money."
+        }
+      ],
+      "rating": 4,
+      "category": "Economics",
+      "availability": ["Ebook", "HardCopy"]
+    },
+    {
+      "id": 6,
+      "title": [
+        {
+          "image": "https://m.media-amazon.com/images/I/71aFt4+OTOL.jpg",
+          "title": "Medical Innovations of 2022.",
+          "author": "Ethan Wright",
+          "date": "2023-05-10",
+          "edition": "First Edition",
+          "description": "A review of the most impactful medical innovations of the past year."
+        }
+      ],
+      "rating": 5,
+      "category": "Health",
+      "availability": ["Ebook", "Audiobook"]
+    },
+    {
+      "id": 7,
+      "title": [
+        {
+          "image": "https://m.media-amazon.com/images/I/81eB+7+CkUL.jpg",
+          "title": "Climate Change: The Next Steps.",
+          "author": "Harper Thomas",
+          "date": "2023-03-05",
+          "edition": "First Edition",
+          "description": "A roadmap to tackling climate change and achieving sustainability."
+        }
+      ],
+      "rating": 4,
+      "category": "Environment",
+      "availability": ["HardCopy", "Ebook"]
+    }
+  ],
+  "academic": [
+    {
+      "id": 1,
+      "title": [
+        {
+          "image": "https://m.media-amazon.com/images/I/71aFt4+OTOL.jpg",
+          "title": "Introduction to Quantum Mechanics.",
+          "author": "John Smith",
+          "date": "2020-03-15",
+          "edition": "Second Edition",
+          "description": "Introduction to the principles of quantum mechanics."
+        }
+      ],
+      "rating": 4,
+      "category": "Physics",
+      "availability": ["HardCopy", "Ebook"]
+    },
+    {
+      "id": 2,
+      "title": [
+        {
+          "image": "https://m.media-amazon.com/images/I/81eB+7+CkUL.jpg",
+          "title": "The Philosophy of Science.",
+          "author": "Mia Green",
+          "date": "2021-05-11",
+          "edition": "First Edition",
+          "description": "Exploring philosophical questions surrounding scientific inquiry."
+        }
+      ],
+      "rating": 5,
+      "category": "Philosophy",
+      "availability": ["Audiobook"]
+    },
+    {
+      "id": 3,
+      "title": [
+        {
+          "image": "https://m.media-amazon.com/images/I/81eB+7+CkUL.jpg",
+          "title": "Data Science Foundations.",
+          "author": "Lucas White",
+          "date": "2021-08-14",
+          "edition": "Second Edition",
+          "description": "Essential concepts and techniques in data science."
+        }
+      ],
+      "rating": 5,
+      "category": "Computer Science",
+      "availability": ["Ebook", "Audiobook"]
+    },
+    {
+      "id": 4,
+      "title": [
+        {
+          "image": "https://m.media-amazon.com/images/I/71aFt4+OTOL.jpg",
+          "title": "Introduction to Statistics.",
+          "author": "Sofia Hall",
+          "date": "2018-04-25",
+          "edition": "First Edition",
+          "description": "Fundamental concepts of statistics for data analysis."
+        }
+      ],
+      "rating": 4,
+      "category": "Mathematics",
+      "availability": ["HardCopy", "Ebook"]
+    },
+    {
+      "id": 5,
+      "title": [
+        {
+          "image": "https://m.media-amazon.com/images/I/81eB+7+CkUL.jpg",
+          "title": "History of Modern Art.",
+          "author": "James Lee",
+          "date": "2022-06-30",
+          "edition": "First Edition",
+          "description": "A survey of modern art movements and their cultural impact."
+        }
+      ],
+      "rating": 5,
+      "category": "Art",
+      "availability": ["Audiobook", "Ebook"]
+    },
+    {
+      "id": 6,
+      "title": [
+        {
+          "image": "https://m.media-amazon.com/images/I/71aFt4+OTOL.jpg",
+          "title": "The Science of Psychology.",
+          "author": "Ava Young",
+          "date": "2023-02-18",
+          "edition": "First Edition",
+          "description": "An overview of psychological theories and practices."
+        }
+      ],
+      "rating": 4,
+      "category": "Psychology",
+      "availability": ["HardCopy", "Ebook"]
+    }
+  ],
+ "article": [
+    {
+      "id": 1,
+      "title": [
+        {
+          "image": "https://m.media-amazon.com/images/I/71aFt4+OTOL.jpg",
+          "title": "The Impact of Climate Change on Coastal Cities.",
+          "author": "Emily Johnson",
+          "date": "2023-05-10",
+          "edition": "2023 Edition",
+          "description": "A comprehensive review of climate change effects on urban coastal areas."
+        }
+      ],
+      "rating": 4,
+      "category": "Environmental Science",
+      "availability": ["Online"]
+    },
+    {
+      "id": 2,
+      "title": [
+        {
+          "image": "https://m.media-amazon.com/images/I/81eB+7+CkUL.jpg",
+          "title": "Artificial Intelligence in Healthcare.",
+          "author": "Michael Brown",
+          "date": "2023-06-15",
+          "edition": "2023 Edition",
+          "description": "Exploring the transformative role of AI in the healthcare sector."
+        }
+      ],
+      "rating": 5,
+      "category": "Technology",
+      "availability": ["Online"]
+    },
+    {
+      "id": 3,
+      "title": [
+        {
+          "image": "https://m.media-amazon.com/images/I/81eB+7+CkUL.jpg",
+          "title": "Social Media and Mental Health: A Double-Edged Sword.",
+          "author": "Olivia Wilson",
+          "date": "2022-11-20",
+          "edition": "2022 Edition",
+          "description": "Analyzing the relationship between social media usage and mental health."
+        }
+      ],
+      "rating": 4,
+      "category": "Psychology",
+      "availability": ["Online"]
+    },
+    {
+      "id": 4,
+      "title": [
+        {
+          "image": "https://m.media-amazon.com/images/I/71aFt4+OTOL.jpg",
+          "title": "Blockchain Technology: Beyond Cryptocurrency.",
+          "author": "James Davis",
+          "date": "2023-04-05",
+          "edition": "2023 Edition",
+          "description": "Investigating the applications of blockchain technology in various industries."
+        }
+      ],
+      "rating": 5,
+      "category": "Finance",
+      "availability": ["Online"]
+    },
+    {
+      "id": 5,
+      "title": [
+        {
+          "image": "https://m.media-amazon.com/images/I/81eB+7+CkUL.jpg",
+          "title": "The Evolution of Renewable Energy Sources.",
+          "author": "Sophia Miller",
+          "date": "2023-02-12",
+          "edition": "2023 Edition",
+          "description": "A look at the advancements in renewable energy technologies."
+        }
+      ],
+      "rating": 4,
+      "category": "Energy",
+      "availability": ["Online"]
+    },
+    {
+      "id": 6,
+      "title": [
+        {
+          "image": "https://m.media-amazon.com/images/I/71aFt4+OTOL.jpg",
+          "title": "The Role of Education in Economic Development.",
+          "author": "William Anderson",
+          "date": "2023-03-22",
+          "edition": "2023 Edition",
+          "description": "Examining how education drives economic growth and development."
+        }
+      ],
+      "rating": 5,
+      "category": "Economics",
+      "availability": ["Online"]
+    },
+    {
+      "id": 7,
+      "title": [
+        {
+          "image": "https://m.media-amazon.com/images/I/81eB+7+CkUL.jpg",
+          "title": "Urbanization and Its Challenges.",
+          "author": "Ava Thompson",
+          "date": "2023-07-18",
+          "edition": "2023 Edition",
+          "description": "Discussing the rapid urbanization trends and their implications."
+        }
+      ],
+      "rating": 4,
+      "category": "Sociology",
+      "availability": ["Online"]
+    }
+  ]
+}
